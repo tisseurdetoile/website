@@ -8,7 +8,7 @@ status=published
 Un blog statique c'est cool, moins de problème de sécurité, une vitesse de rendu sans pareil, n'importe qu'elle hebergeur peux faire l'affaire. Mais c'est aussi dire bonjour à une mise plus fastidieuse à coup de ftp. Pour rendre tout cela fluide le triptyque JBake + Git + TravisCi est une des solution.
 
 ## Ce qu'il faut
-* Un repository GIT publique. (comme https://github.com/tisseurdetoile/website)
+* Un repository GIT publique. (comme https://github.com/tisseurdetoile/jbake-uno)
 * Les identifiants FTP de votre site web ainsi que le chemin attendus des fichiers.
 * configurer travisCI
 
