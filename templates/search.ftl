@@ -5,9 +5,9 @@
      * Text for javascript
      */
 
-    var searchInfo = "took : {time} ms";
+    var searchInfo = "temps : {time} ms";
     var searchresult = "<li><a href='{url}'>{title}</a> - (Score: {score}) - </li>";
-    var noresult = "No results found";
+    var noresult = "Aucun resultat trouvé";
 
     /**
      * copy paste from SO
@@ -129,12 +129,12 @@
     <div class="content-wrapper__inner">
         <article class="post-container post-container--single">
             <header class="post-header">
-                <h1 class="post-title">Search this site</h1>
+                <h1 class="post-title">Rechercher dans ce site</h1>
             </header>
 
             <form class="form-wrapper cf">
                 <input id="schrstr" type="text" placeholder="Search here..." required>
-                <button id="btn" type="button">Search</button>
+                <button id="btn" type="button">Recherche</button>
             </form>
 
             <hr/>
