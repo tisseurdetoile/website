@@ -1,7 +1,7 @@
 title=Mon équipement 2018
 date=2018-01-24
 type=post
-tags=equipements, sport, loisir
+tags=equipement, sport, loisir, velo
 status=published
 ~~~~~~
 ### Quoi de neuf
