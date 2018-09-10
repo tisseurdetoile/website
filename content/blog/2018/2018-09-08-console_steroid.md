@@ -113,3 +113,12 @@ Interpreter les flux json comme un boss
 ### Installation
 ```brew install jq```
 
+## changer ses aliases
+```
+ # cat .zsh_alias
+alias cat='bat'
+alias ping='prettyping --nolegend'
+alias top='sudo htop'
+alias du='ncdu --color dark -rr -x --exclude .git --exclude node_modules'
+alias help='tldr'
+```
