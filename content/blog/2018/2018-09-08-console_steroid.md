@@ -5,10 +5,10 @@ tags=console, outils, cat, ping, man, du, jq, fzf, top, htop, ncdu
 status=published-date
 ~~~~~~
 
-Ci dessous un résumé de l'article que vous retrouverez [ici](https://remysharp.com/2018/08/23/cli-improved) qui recence des outils pour la console qui remplacent avantageusement leurs illustres prédecesseurs. Le tout testé sur OSX.
+Ci-dessous un résumé de l'article que vous retrouverez [ici](https://remysharp.com/2018/08/23/cli-improved), qui recense des outils pour booster votre console, ils remplacent avantageusement leurs illustres prédecesseurs. Le tout testé sur OSX.
 
 ## bat - (cat)
-pour remplacer ```cat``` bienvenue à ```bat```
+Pour remplacer ```cat``` bienvenue à ```bat```
 ![Bat screenshot](./bat.png)
 * [site officiel](https://github.com/sharkdp/bat)
 
@@ -97,7 +97,7 @@ Interactive disque usage.
 * ```ncdu --color dark```
 
 ## jq (interpreter les flux json)
-Interpreter les flux json comme un boss
+Interpréter les flux json comme un boss
 ![jq screenshot](./jq.png)
 * [site officiel](https://stedolan.github.io/jq/)
 
@@ -114,6 +114,7 @@ Interpreter les flux json comme un boss
 ```brew install jq```
 
 ## changer ses aliases
+Selon votre shell modifier le fichiers .zsh_alias ou bash_alias pour qu’il contienne les lignes suivantes. 
 ```
  # cat .zsh_alias
 alias cat='bat'
