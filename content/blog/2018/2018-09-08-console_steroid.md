@@ -44,7 +44,7 @@ rechercher dans votre historique avec classe (CTRL-R)
 rechercher dans vos fichiers avec preview ```fzf --preview 'bat --color always {}'```
 
 ### Les plus 
-* Ah bon on pouvez faire tout cela.
+* Ah bon on pouvait faire tout cela.
 
 ## bashhub (history)
 votre historique dans le cloud.
